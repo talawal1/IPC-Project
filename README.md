@@ -43,6 +43,6 @@ The Linux option is for your **personal Linux installation** that supports X sys
 ## Step:3
 
 - Install the PyAutoGui library dependency (use the command below)
-- Installation command: **pip install pyautogui**
+- Installation command: **pip install pyautogui** <br>
   **Note** Mac Users will need to use: **python3 -m pip install pyautogui**
 - Information about the library: https://pypi.org/project/PyAutoGUI/
